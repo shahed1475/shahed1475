@@ -37,7 +37,7 @@ Also: Playwright, Ollama, ffmpeg, background workers and LLM tool-calling.
 | [Software-testing-Ai](https://github.com/shahed1475/Software-testing-Ai) | Test automation framework with tagged suites, Docker services, security scans and reports | Python, Playwright, Docker |
 | [Pos-software](https://github.com/shahed1475/Pos-software) | FluxPOS: multi-tenant point of sale for restaurants and multi-vendor food markets | Next.js, Prisma, TypeScript |
 | [ContentOps-AI](https://github.com/shahed1475/ContentOps-AI) | Content operations platform: API, dashboard, scheduling and analytics | Express, React, PostgreSQL |
-| [nebula-hub-core](https://github.com/shahed1475/nebula-hub-core) | Web app with an AI worker that drafts outreach and classifies replies | React, Supabase, TypeScript |
+| [software-agency-portal](https://github.com/shahed1475/software-agency-portal) | Agency website with a client portal and admin panel, plus an AI worker that drafts outreach and classifies replies | React, Supabase, TypeScript |
 | [Visa-application-automation](https://github.com/shahed1475/Visa-application-automation) | Local-first assistant that organises documents and fills a portal form under user control | TypeScript, OCR |
 | [Portfolio](https://github.com/shahed1475/Portfolio) | Personal site with case studies, live at [shahed1475.github.io/Portfolio](https://shahed1475.github.io/Portfolio/) | Next.js, TypeScript |
 
