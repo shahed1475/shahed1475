@@ -38,7 +38,6 @@ Also: Playwright, Ollama, ffmpeg, background workers and LLM tool-calling.
 | [Pos-software](https://github.com/shahed1475/Pos-software) | FluxPOS: multi-tenant point of sale for restaurants and multi-vendor food markets | Next.js, Prisma, TypeScript |
 | [ContentOps-AI](https://github.com/shahed1475/ContentOps-AI) | Content operations platform: API, dashboard, scheduling and analytics | Express, React, PostgreSQL |
 | [software-agency-portal](https://github.com/shahed1475/software-agency-portal) | Agency website with a client portal and admin panel, plus an AI worker that drafts outreach and classifies replies | React, Supabase, TypeScript |
-| [Visa-application-automation](https://github.com/shahed1475/Visa-application-automation) | Local-first assistant that organises documents and fills a portal form under user control | TypeScript, OCR |
 | [Portfolio](https://github.com/shahed1475/Portfolio) | Personal site with case studies, live at [shahed1475.github.io/Portfolio](https://shahed1475.github.io/Portfolio/) | Next.js, TypeScript |
 
 Some of my work is in private repositories, including a job-search automation tool, a terminal coding agent and a contract-management platform. The portfolio has case studies for them.
